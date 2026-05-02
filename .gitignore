@@ -1,0 +1,14 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local browser profiles and private account outputs
+bili-chrome-profile/
+chrome-profile/
+bilibili-*.json
+bilibili-*.csv
+bilibili-*.md
+
+# Keep the skill definition itself tracked.
+!SKILL.md
