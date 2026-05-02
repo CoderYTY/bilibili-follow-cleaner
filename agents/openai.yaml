@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili Follow Cleaner"
+  short_description: "Audit and clean stale Bilibili follows safely."
+  default_prompt: "Use $bilibili-follow-cleaner to scan my Bilibili following list and help me unfollow accounts I have not watched recently."
